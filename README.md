@@ -104,6 +104,7 @@ Launch OpenStack Dashboard
 
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
+
 Result:
 
 ![Screenshot 2025-03-19 160433](https://github.com/user-attachments/assets/c74b31e6-e344-402b-90b0-c3861f48ad0c)
