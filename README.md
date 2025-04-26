@@ -1,4 +1,6 @@
 # 1. Explore & Understand AWS
+# NAME: GOKUL SHARAN R
+# REG NO: 212223040052
 
 ## Algorithm:
 
