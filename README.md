@@ -1,6 +1,6 @@
 # 1. Explore & Understand AWS
-# NAME: HEMANTH KUMAR R
-# REG NO: 212223040065
+# NAME: NIVETHA S
+# REG NO: 212223040137
 # DATE: 29/04/2025
 
 ## Algorithm:
